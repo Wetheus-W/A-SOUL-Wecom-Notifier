@@ -15,7 +15,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-04-23T04:50:59.958Z",
+      "scrapedTime": "2022-04-23T04:53:05.241Z",
       "user": {
         "info": {
           "uid": 672346917,
@@ -196,7 +196,7 @@
     "bilibili_bio": {
       "nickname": "向晚大魔王",
       "uid": 672346917,
-      "scrapedTime": "2022-04-23T04:50:58.829Z",
+      "scrapedTime": "2022-04-23T04:53:04.806Z",
       "avatar": "/bfs/face/566078c52b408571d8ae5e3bcdf57b2283024c27.jpg",
       "sign": "关注...也不是不可以啦！",
       "latestStream": {
@@ -224,7 +224,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-04-23T04:51:05.663Z",
+      "scrapedTime": "2022-04-23T04:53:09.395Z",
       "user": {
         "info": {
           "uid": 672353429,
@@ -410,7 +410,7 @@
     "bilibili_bio": {
       "nickname": "贝拉kira",
       "uid": 672353429,
-      "scrapedTime": "2022-04-23T04:51:04.997Z",
+      "scrapedTime": "2022-04-23T04:53:08.934Z",
       "avatar": "/bfs/face/668af440f8a8065743d3fa79cfa8f017905d0065.jpg",
       "sign": "元气满满的A-SOUL舞担参上~目标TOP IDOL，一起加油！",
       "latestStream": {
@@ -438,7 +438,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-04-23T04:51:10.380Z",
+      "scrapedTime": "2022-04-23T04:53:13.174Z",
       "user": {
         "info": {
           "uid": 351609538,
@@ -619,7 +619,7 @@
     "bilibili_bio": {
       "nickname": "珈乐Carol",
       "uid": 351609538,
-      "scrapedTime": "2022-04-23T04:51:09.640Z",
+      "scrapedTime": "2022-04-23T04:53:12.568Z",
       "avatar": "/bfs/face/a7fea00016a8d3ffb015b6ed8647cc3ed89cbc63.jpg",
       "sign": "嘘，请听我为你歌唱……",
       "latestStream": {
@@ -647,7 +647,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-04-23T04:51:15.333Z",
+      "scrapedTime": "2022-04-23T04:53:18.037Z",
       "user": {
         "info": {
           "uid": 672328094,
@@ -828,7 +828,7 @@
     "bilibili_bio": {
       "nickname": "嘉然今天吃什么",
       "uid": 672328094,
-      "scrapedTime": "2022-04-23T04:51:14.554Z",
+      "scrapedTime": "2022-04-23T04:53:17.442Z",
       "avatar": "/bfs/face/d399d6f5cf7943a996ae96999ba3e6ae2a2988de.jpg",
       "sign": "这里是嘉然！别看我小小的，我超能吃还超可爱的哦~",
       "latestStream": {
@@ -856,7 +856,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-04-23T04:51:23.387Z",
+      "scrapedTime": "2022-04-23T04:53:21.469Z",
       "user": {
         "info": {
           "uid": 672342685,
@@ -925,11 +925,11 @@
         }
       },
       "latestDynamic": {
-        "id": "651866513886674980",
-        "type": 8,
-        "timestamp": "2022-04-22T07:35:00.000Z",
-        "timestampUnix": 1650612900000,
-        "timeAgo": "21 hours ago"
+        "id": "652195787553374247",
+        "type": 1,
+        "timestamp": "2022-04-23T04:52:45.000Z",
+        "timestampUnix": 1650689565000,
+        "timeAgo": "36 seconds ago"
       }
     },
     "douyin": {
@@ -1037,7 +1037,7 @@
     "bilibili_bio": {
       "nickname": "乃琳Queen",
       "uid": 672342685,
-      "scrapedTime": "2022-04-23T04:51:22.778Z",
+      "scrapedTime": "2022-04-23T04:53:20.872Z",
       "avatar": "/bfs/face/8895c87082beba1355ea4bc7f91f2786ef49e354.jpg",
       "sign": "喜欢听你说，开心和不开心的，都告诉我吧~",
       "latestStream": {
@@ -1065,7 +1065,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-04-23T04:51:27.842Z",
+      "scrapedTime": "2022-04-23T04:53:27.598Z",
       "user": {
         "info": {
           "uid": 703007996,
@@ -1144,19 +1144,19 @@
     "douyin": {
       "nickname": "五个魂儿呀",
       "uid": "1002373479924424",
-      "scrapedTime": "2022-04-23T04:51:31.990Z",
+      "scrapedTime": "2022-04-23T04:53:31.486Z",
       "sign": "好看的人类千篇一律，有趣的魂儿哈哈哈哈哈里挑一！\n我们是虚拟偶像女团“A-SOUL”，\n关注五个魂儿，开心不打盹儿…",
       "following": 7,
-      "followers": 686362,
+      "followers": 686374,
       "latestPost": {
         "id": "7088565324953521445",
         "title": "女团是如何做核酸的？请大家戴好口罩，保持一米距离！#排队做核酸 @抖音小助手 ",
         "timestamp": "2022-04-22T09:43:00.000Z",
         "timestampUnix": 1650620580000,
         "timeAgo": "19 hours ago",
-        "cover": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/ba573f4577354d619225fd4dc30ea2c1?x-expires=1651896000&x-signature=G5Usg7BldtUSu3h6KchaDWv48VM%3D&from=4257465056_large",
-        "videoUrl": "https://v26-web.douyinvod.com/8e65142a0c0cfc8fe611ca41f3a0c331/62639400/video/tos/cn/tos-cn-ve-15c001-alinc2/f60702b16c174bfcbe0b75aae6416b74/?a=6383&br=1967&bt=1967&cd=0%7C0%7C0%7C0&ch=10010&cr=0&cs=0&cv=1&dr=0&ds=4&er=&ft=5q_lc5mmnPD12NQsix.-Ux372SYKc3wv25p3&l=021650689490649fdbddc0100fff0020a981c980000003781a224&lr=all&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3E4djg6Zjt0PDMzNGkzM0ApNjdoZWVkNjtlNzw6aGk5NGcwbjRzcjQwM2NgLS1kLS9zczRiNDRgYS81LmE1Xl8uNGE6Yw%3D%3D&vl=&vr=",
-        "shareUrl": "https://www.iesdouyin.com/share/video/7088565324953521445/?region=CN&mid=7088565421896518430&u_code=0&did=MS4wLjABAAAAUDMVPdV_42zzyimzCwhaeSqV0PSMxKhxSd_NwAKcjE3qs26WADcqGNTn9Yi7VcOf&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title"
+        "cover": "https://p9-pc-sign.douyinpic.com/obj/tos-cn-i-dy/ba573f4577354d619225fd4dc30ea2c1?x-expires=1651896000&x-signature=RJNTjjhYd%2B7v3ZwO0lUleNOeT%2Fs%3D&from=4257465056_large",
+        "videoUrl": "https://v26-web.douyinvod.com/faaa22807670ae55f7b79a49c04d7011/62639478/video/tos/cn/tos-cn-ve-15c001-alinc2/f60702b16c174bfcbe0b75aae6416b74/?a=6383&br=1967&bt=1967&cd=0%7C0%7C0%7C0&ch=10010&cr=0&cs=0&cv=1&dr=0&ds=4&er=&ft=iDIGbiNN6VQ9wUpHKClW.CSei58hbhdxwiqG_4kag36&l=021650689610091fdbddc0200fff0030a92e05800000b4d69473a&lr=all&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3E4djg6Zjt0PDMzNGkzM0ApNjdoZWVkNjtlNzw6aGk5NGcwbjRzcjQwM2NgLS1kLS9zczRiNDRgYS81LmE1Xl8uNGE6Yw%3D%3D&vl=&vr=",
+        "shareUrl": "https://www.iesdouyin.com/share/video/7088565324953521445/?region=CN&mid=7088565421896518430&u_code=0&did=MS4wLjABAAAAobSNEwnkMabWCuMpauwiIN4sTXEsJAOCi_I4wHPyfGTFdaNjLXOuQyyTNo3vJXQv&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title"
       }
     },
     "douyin_live": {
@@ -1251,7 +1251,7 @@
     "bilibili_bio": {
       "nickname": "A-SOUL_Official",
       "uid": 703007996,
-      "scrapedTime": "2022-04-23T04:51:27.115Z",
+      "scrapedTime": "2022-04-23T04:53:27.162Z",
       "avatar": "/bfs/face/43b21998da8e7e210340333f46d4e2ae7ec046eb.jpg",
       "sign": "虚拟偶像企划，我们是A-SOUL！合作洽谈请联系a_soulofficial@163.com",
       "latestStream": {
